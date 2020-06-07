@@ -4,7 +4,7 @@ target/
 !**/src/main/**
 !**/src/test/**
 target/*/
-target/demo-0.0.1-SNAPSHOT.jar.original
+target/demo-2-0.0.1-SNAPSHOT.original
 
 ### STS ###
 .apt_generated
